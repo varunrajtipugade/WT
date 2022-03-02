@@ -1,0 +1,39 @@
+heading{
+    font-family: sans-serif arial;
+    text-align: center;
+    font-size: 40px;
+	display:block;
+	padding:30px;
+	background-color:#F5F5DC;
+}
+Record{ 
+    display:table; 
+    font-size:14px; 
+    margin:8px; 
+    font-family: Verdana; 
+    width: 100%;
+	padding-top:30px;
+	
+} 
+data{ 
+    display:table-row; 
+    text-align:center; 
+    border: 1px solid silver; 
+    padding:10px; 
+    background-color:whitesmoke; 
+} 
+data-cell,data-header { 
+    display: table-cell; 
+	text-align: center;
+	color: black;
+    border: solid 1px; 
+    width: auto;
+	height:30px;
+	border: 1px solid silver;
+	padding-top:10px;	
+}
+data-header{
+	color: white;
+	border: 1px solid silver;
+	background-color:#800000;	
+}

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="index.css">
+	<style type="text/css">
+			#recharge {
+			  font-family: Arial, Helvetica, sans-serif;
+			  border-collapse: collapse;
+			  width: 40%;
+			  margin-left:auto; 
+    		  margin-right:auto;
+    		  margin-top: 50px;
+    		  font-size: 17px;
+			}
+
+			#recharge td, #recharge th {
+			  border: 0px;
+			  padding: 8px;
+			}
+
+			#recharge th {
+			  padding-top: 12px;
+			  padding-bottom: 12px;
+			  text-align: left;
+			  background-color: #333;
+			  color: white;
+			}
+
+			input{
+				width: 100%;
+  				padding: 12px 20px;
+  				margin: 8px 0;
+  				box-sizing: border-box;
+  				border: none;
+  				border-bottom: 2px solid #cc0000;
+			}
+
+			.button {
+				  background-color: #333;
+				  width: 100%;
+				  border: none;
+				  color: white;
+				  padding: 15px 32px;
+				  font-size: 17px;
+				  border-radius: 12px;
+			}
+			.button:hover {background-color: #cc0000;}
+
+	</style>
+	<title>Recharge Now</title>
+</head>
+<body>
+	<div class="header">
+		<img src="logo.png" width="5%" height="5%" style="padding: 5px; float: left;">
+		<a href="#default" class="logo">Airtel Thanks</a>
+	</div>
+
+	<ul>
+	  <li><a href="index.html">Home</a></li>
+	  <li><a class="menu" href="recharge.html">Recharge</a></li>
+	  <li><a href="about.html">About</a></li>
+	  <li><a href="contact.html">Contact</a></li>
+	</ul>
+
+	<table id="recharge">
+		<form>
+		  <tr>
+		  	<td><label for="fname">First Name:</label></td>
+		  	<td><input type="text" id="fname" name="fname" placeholder="Enter First Name"></td>
+		  </tr>
+		  <tr>
+		  	<td><label for="lname">Last Name:</label></td>
+		  	<td><input type="text" id="lname" name="lname" placeholder="Enter Last Name"></td>
+		  </tr>
+		  <tr>
+		  	<td><label for="email">Email Id:</label></td>
+		  	<td><input type="email" id="email" name="email" placeholder="@google.com"></td>
+		  </tr>
+		  <tr>
+		  	<td><label for="mobile">Mobile No:</label></td>
+		  	<td><input type="number" id="mobile" name="mobile" pattern="[0-9]{10}" placeholder="Airtel Mobile No"></td>
+		  </tr>
+		  <tr>
+		  	<td><label for="Recharge">Recharge Amount:</label></td>
+		  	<td><input type="number" id="Recharge" name="Recharge" placeholder="Enter Recharge Amount"></td>
+		  </tr>
+		  <tr>
+		  	<td></td>
+		  	<td><button class="button">Submit</button></td>
+		  	<td></td>
+		  </tr>
+	  	</form>
+	</table>
+	<form>
+	 
+</body>
+</html>

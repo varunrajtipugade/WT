@@ -1,0 +1,10 @@
+<!DOCTYPE note
+[
+<!ELEMENT data (firstname,lastname,age,eamil,designation,mobile)>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT lastname (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT designation (#PCDATA)>
+<!ELEMENT eamil (#PCDATA)>
+<!ELEMENT mobile (#PCDATA)>
+]>

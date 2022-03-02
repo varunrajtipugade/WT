@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="v1.css" ?>
+<!DOCTYPE data SYSTEM "Note.dtd">
+
+<heading>Bank Employee Details
+ <Record>
+<data> 
+<data-header><firstname> First Name </firstname></data-header> 
+<data-header><lastname> Last Name </lastname></data-header> 
+<data-header><age> Age </age></data-header> 
+<data-header><designation> Designation </designation></data-header> 
+<data-header><email> Email </email></data-header> 
+<data-header><mobile> Mobile Number </mobile></data-header> 
+</data>
+
+<data> 
+<data-cell><firstname> Varunraj </firstname></data-cell> 
+<data-cell><lastname> Tipugade </lastname></data-cell>
+<data-cell><age> 20 </age></data-cell> 
+<data-cell><designation> Manager </designation></data-cell> 
+<data-cell><email> varunrajtipugade2001@gmail.com </email></data-cell> 
+<data-cell><mobile> 7030212587 </mobile></data-cell> 
+</data>
+
+<data> 
+<data-cell><firstname> Raj </firstname></data-cell> 
+<data-cell><lastname> Powar </lastname></data-cell>
+<data-cell><age> 20 </age></data-cell> 
+<data-cell><designation> Manager </designation></data-cell> 
+<data-cell><email> rajpowar45@gmail.com </email></data-cell> 
+<data-cell><mobile> 9986547425 </mobile></data-cell> 
+</data>
+
+<data> 
+<data-cell><firstname> Rushi </firstname></data-cell> 
+<data-cell><lastname> Jadhav </lastname></data-cell>
+<data-cell><age> 21 </age></data-cell> 
+<data-cell><designation> Accountant </designation></data-cell> 
+<data-cell><email> rushi1507@gmail.com </email></data-cell> 
+<data-cell><mobile> 7825639845 </mobile></data-cell> 
+</data>
+
+<data> 
+<data-cell><firstname> Pratik </firstname></data-cell> 
+<data-cell><lastname> Patil </lastname></data-cell>
+<data-cell><age> 21 </age></data-cell> 
+<data-cell><designation> Officer </designation></data-cell> 
+<data-cell><email> pratik5684@gmail.com </email></data-cell> 
+<data-cell><mobile> 7425893014 </mobile></data-cell> 
+</data>
+
+<data> 
+<data-cell><firstname> Pranil </firstname></data-cell> 
+<data-cell><lastname> Ghatage </lastname></data-cell>
+<data-cell><age> 20 </age></data-cell> 
+<data-cell><designation> Clerk </designation></data-cell> 
+<data-cell><email> pranilg3434@gmail.com </email></data-cell> 
+<data-cell><mobile> 8512413014 </mobile></data-cell> 
+</data>
+
+<data> 
+<data-cell><firstname> Shubham </firstname></data-cell> 
+<data-cell><lastname> Palkar </lastname></data-cell>
+<data-cell><age> 22 </age></data-cell> 
+<data-cell><designation> Clerk </designation></data-cell> 
+<data-cell><email> shubpalkar2929@gmail.com </email></data-cell> 
+<data-cell><mobile> 8963254125 </mobile></data-cell> 
+</data>
+
+<data> 
+<data-cell><firstname> Omkar </firstname></data-cell> 
+<data-cell><lastname> Kulkarni </lastname></data-cell>
+<data-cell><age> 21 </age></data-cell> 
+<data-cell><designation> Senior Clerk </designation></data-cell> 
+<data-cell><email> omiok007@gmail.com </email></data-cell> 
+<data-cell><mobile> 7745821956 </mobile></data-cell> 
+</data>
+
+<data> 
+<data-cell><firstname> Lalit </firstname></data-cell> 
+<data-cell><lastname> Powar </lastname></data-cell>
+<data-cell><age> 20 </age></data-cell> 
+<data-cell><designation> Junior Officer </designation></data-cell> 
+<data-cell><email> lalitrao4578@gmail.com </email></data-cell> 
+<data-cell><mobile> 8585231245 </mobile></data-cell> 
+</data>
+
+<data> 
+<data-cell><firstname> Karan </firstname></data-cell> 
+<data-cell><lastname> Ingale </lastname></data-cell>
+<data-cell><age> 22 </age></data-cell> 
+<data-cell><designation> Junior Officer </designation></data-cell> 
+<data-cell><email> karan7575@gmail.com </email></data-cell> 
+<data-cell><mobile> 7575669921 </mobile></data-cell> 
+</data>
+
+<data> 
+<data-cell><firstname> Bhushan </firstname></data-cell> 
+<data-cell><lastname> varne </lastname></data-cell>
+<data-cell><age> 20 </age></data-cell> 
+<data-cell><designation> Accountant </designation></data-cell> 
+<data-cell><email> bhushanvarne1010@gmail.com </email></data-cell> 
+<data-cell><mobile> 9865324152 </mobile></data-cell> 
+</data>
+
+ </Record></heading>
