@@ -1,0 +1,5 @@
+0 UNOPENED open() is not called.
+1 OPENED open is called but send() is not called.
+2 HEADERS_RECEIVED send() is called, and headers and status are available.
+3 LOADING Downloading data; responseText holds the data.
+4 DONE The operation is completed fully.
